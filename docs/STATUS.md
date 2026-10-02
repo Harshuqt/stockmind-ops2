@@ -9,7 +9,7 @@
 - **Alembic**: CURRENT (in application repo)
 - **Gemini**: PLANNED (Application AI and analysis features have not yet been implemented)
 
-## Infrastructure
+## Infrastructure (Yet to deploy)
 - **Terraform**: CURRENT (IMPLEMENTED)
 - **AWS**: CURRENT (IMPLEMENTED)
 - **VPC**: CURRENT (IMPLEMENTED)
