@@ -1,0 +1,3 @@
+[submodule "src/StockMind"]
+	path = src/StockMind
+	url = https://github.com/harshuqt/StockMind.git
