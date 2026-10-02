@@ -10,6 +10,8 @@
 
 ## End Goal
 
+![StockMind DevOps architecture design](../src/Images/CI_CD to EKS GitOps Architecture.png)
+
 ```mermaid
 flowchart TD
     Dev[Developer pushes code to GitHub]
